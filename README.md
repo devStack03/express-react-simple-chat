@@ -4,6 +4,12 @@ A modern real-time chat application built with React, TypeScript, Socket.IO, and
 
 [![Chat Application Screenshot]](https://drive.google.com/file/d/1eX_dcPdgHytaA_DlXw70JfVtVQ95AWuW/view?usp=sharing)
 
+
+https://github.com/user-attachments/assets/6bb7648a-3e5c-47f6-af48-75634bef149d
+
+
+
+
 ## Features
 
 - 🚀 Real-time messaging using Socket.IO
@@ -35,8 +41,8 @@ A modern real-time chat application built with React, TypeScript, Socket.IO, and
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/react-express-chat-app.git
-   cd react-express-chat-app
+   git clone https://github.com/devStack03/express-react-simple-chat.git
+   cd express-react-simple-chat
    ```
 2. Install dependencies:
    ```bash
